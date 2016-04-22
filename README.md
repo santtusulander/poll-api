@@ -1,3 +1,2 @@
-# testProject
-
-a [Sails](http://sailsjs.org) application
+# poll-api
+a small sailsjs-mongoDB API
